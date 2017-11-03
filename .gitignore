@@ -1,0 +1,11 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Http/do_Http.zip
+/doExt_do_Http/do_build.xml
+/doExt_do_Http/libs/docore.jar
+/doExt_do_Http/src/org.rar
